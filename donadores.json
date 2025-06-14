@@ -1,8 +1,33 @@
 [
   {
-    "nombre": "Manuel Martinez",
+    "nombre": "Juan Pérez",
     "imagen": "https://placehold.co/100x100/3498db/ffffff.png?text=JP&font=poppins",
-    "donacion": 100.000,
+    "donacion": 12000,
+    "moneda": "COP"
+  },
+  {
+    "nombre": "Laura Torres",
+    "imagen": "https://placehold.co/100x100/9b59b6/ffffff.png?text=LT&font=raleway",
+    "donacion": 25000,
+    "moneda": "COP"
+  },
+  {
+    "nombre": "Carlos Mejía",
+    "imagen": "https://placehold.co/100x100/e67e22/ffffff.png?text=CM&font=oswald",
+    "donacion": 18500,
+    "moneda": "COP"
+  },
+  {
+    "nombre": "Ana Gómez",
+    "imagen": "https://placehold.co/100x100/27ae60/ffffff.png?text=AG&font=montserrat",
+    "donacion": 9000,
+    "moneda": "COP"
+  },
+  {
+    "nombre": "David Ruiz",
+    "imagen": "https://placehold.co/100x100/c0392b/ffffff.png?text=DR&font=roboto",
+    "donacion": 31000,
     "moneda": "COP"
   }
 ]
+
